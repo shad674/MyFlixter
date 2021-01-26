@@ -25,7 +25,7 @@ MyFlixter is an app that allows users to browse movies from the [The Movie Datab
 
 
 
-<img src="walkthroughpart2.gif" width=250><br>
+<img src="demo_MyFlxister.gif" width=250><br>
 
 ### Notes
 
